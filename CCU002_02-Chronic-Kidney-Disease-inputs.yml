@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-albuminuria---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-stage---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-proteinuria---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-hypertension---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-dialysis---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-transplant---primary.py
+inputModule8:
+  class: File
+  path: python/renal-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule9:
+  class: File
+  path: python/nephritic-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-glomerulonephritis---primary.py
+inputModule12:
+  class: File
+  path: python/membranous-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule13:
+  class: File
+  path: python/endocapillary-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-chronic-kidney-disease-ckd-failure---primary.py
+inputModule15:
+  class: File
+  path: python/mesangial-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule16:
+  class: File
+  path: python/acute-ccu002_02-chronic-kidney-disease-ckd---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
